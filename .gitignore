@@ -2,3 +2,7 @@
 **/__Previews
 **/Project Logs for*
 **/Project Outputs for*
+*.OutJob
+*.PrjPcb
+*.PrjPcbStructure
+*.BomDoc
